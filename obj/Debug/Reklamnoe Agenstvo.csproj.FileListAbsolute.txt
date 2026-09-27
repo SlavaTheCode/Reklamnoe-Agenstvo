@@ -1,0 +1,14 @@
+D:\VS\Source\repos\Reklamnoe Agenstvo\bin\Debug\Database1.mdf
+D:\VS\Source\repos\Reklamnoe Agenstvo\bin\Debug\Database1_log.ldf
+D:\VS\Source\repos\Reklamnoe Agenstvo\bin\Debug\Reklamnoe Agenstvo.exe
+D:\VS\Source\repos\Reklamnoe Agenstvo\bin\Debug\Reklamnoe Agenstvo.pdb
+D:\VS\Source\repos\Reklamnoe Agenstvo\obj\Debug\Reklamnoe Agenstvo.csproj.AssemblyReference.cache
+D:\VS\Source\repos\Reklamnoe Agenstvo\obj\Debug\Reklamnoe_Agenstvo.Frm_First.resources
+D:\VS\Source\repos\Reklamnoe Agenstvo\obj\Debug\Reklamnoe_Agenstvo.Frm_Admin.resources
+D:\VS\Source\repos\Reklamnoe Agenstvo\obj\Debug\Reklamnoe_Agenstvo.Properties.Resources.resources
+D:\VS\Source\repos\Reklamnoe Agenstvo\obj\Debug\Reklamnoe Agenstvo.csproj.GenerateResource.cache
+D:\VS\Source\repos\Reklamnoe Agenstvo\obj\Debug\Reklamnoe Agenstvo.csproj.CoreCompileInputs.cache
+D:\VS\Source\repos\Reklamnoe Agenstvo\obj\Debug\Reklamnoe Agenstvo.exe
+D:\VS\Source\repos\Reklamnoe Agenstvo\obj\Debug\Reklamnoe Agenstvo.pdb
+D:\VS\Source\repos\Reklamnoe Agenstvo\obj\Debug\Reklamnoe_Agenstvo.Form2.resources
+D:\VS\Source\repos\Reklamnoe Agenstvo\bin\Debug\Reklamnoe Agenstvo.exe.config
